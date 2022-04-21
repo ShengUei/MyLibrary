@@ -1,3 +1,11 @@
+/*
+* Author: Sheng-Uei,Weng
+* Creation Date: 2022/04/21
+* Modified Date:
+* Description:
+*   Convert the Base64 String to image file, and save file to classpath directory in web server
+*/
+
 import org.apache.commons.codec.binary.Base64;
 import org.apache.commons.io.FileUtils;
 import org.springframework.util.ResourceUtils;
